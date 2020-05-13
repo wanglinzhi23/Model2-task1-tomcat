@@ -1,0 +1,6 @@
+<web>
+    <servlet>
+        <servlet-pattern></servlet-pattern>
+        <servlet-class></servlet-class>
+    </servlet>
+</web>

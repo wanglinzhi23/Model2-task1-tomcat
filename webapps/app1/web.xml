@@ -1,0 +1,6 @@
+<web>
+    <servlet>
+        <servlet-pattern>/login</servlet-pattern>
+        <servlet-class>com.lagou.niancheng.app1.LoginServlet</servlet-class>
+    </servlet>
+</web>
